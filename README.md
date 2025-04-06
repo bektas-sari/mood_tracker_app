@@ -57,12 +57,6 @@ Ensure the following is done:
 
 ---
 
-## 🚧 Screenshots
-
-> Coming soon: Add screenshots or GIFs of the app in action.
-
----
-
 ## 🙌 Contributing
 
 Feel free to fork the project, open issues, or create pull requests.
