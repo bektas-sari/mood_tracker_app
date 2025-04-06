@@ -67,7 +67,7 @@ Feel free to fork the project, open issues, or create pull requests.
 
 If you have questions or feedback:
 - GitHub Issues
-- Email: yourname@example.com
+- Email: bektas.sari@gmail.com
 
 ---
 
