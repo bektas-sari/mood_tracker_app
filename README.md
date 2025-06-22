@@ -1,4 +1,4 @@
-# Mood Tracker App 🌟(FLUTTER)
+# Mood Tracker App 🌟(Flutter APP)
 
 A modern, minimal Flutter app to track your daily mood using emojis, write notes, and visualize your emotional trends. This app includes daily notification reminders and an alert system for prolonged negative moods.
 
