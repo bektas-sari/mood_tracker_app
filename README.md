@@ -79,7 +79,4 @@ Academia: https://independent.academia.edu/bektassari <br>
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
-
-**Made with Flutter ❤️**
 
